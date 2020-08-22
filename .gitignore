@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.vscodeignore
+log
+other
+src
+
+vsc-extension-quickstart.md

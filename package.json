@@ -1,0 +1,21 @@
+{
+    "name": "hammerspoon-snippets",
+    "displayName": "hammerspoon-snippets",
+    "description": "Snippets for Hammerspoon framework",
+    "version": "0.0.1",
+    "icon": "images/hammerspoon.png",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "lua",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

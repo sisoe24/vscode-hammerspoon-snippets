@@ -2,7 +2,7 @@
 
 Visual Studio Code snippets for the Hammerspoon framework.
 
-![example](images/example.png)
+![example](images/example.jpg)
 ![example](images/example.gif)
 
 ## Release Notes

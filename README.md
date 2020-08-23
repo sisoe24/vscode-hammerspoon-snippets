@@ -1,13 +1,15 @@
-# hammerspoon-snippets README
+# README
 
 Visual Studio Code snippets for the Hammerspoon framework.
 
-![example](/images/example.png)
+![example](images/example.png)
+![example](images/example.gif)
 
 ## Release Notes
 
-Snippets are automatically generated from the Hammerspoon documentation,
-so is highly likely that is going to be bloated with a lot of code.
+Because snippets are automatically generated from the Hammerspoon documentation,
+is likely that is going to be bloated with a lot of text, so I would suggest to
+enable the extension only in the Hammerspoon directory/workspace.
 
 ### 0.0.1
 

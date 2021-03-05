@@ -13,6 +13,10 @@
     "categories": [
         "Snippets"
     ],
+    "keywords": [
+        "Hammerspoon",
+        "Snippets"
+    ],
     "contributes": {
         "snippets": [
             {
@@ -23,6 +27,6 @@
     },
     "repository": {
         "type": "git",
-        "url":"https://github.com/sisoe24/vscode-hammerspoon-snippets"
+        "url": "https://github.com/sisoe24/vscode-hammerspoon-snippets"
     }
 }

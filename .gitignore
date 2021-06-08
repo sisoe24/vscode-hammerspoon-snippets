@@ -1,6 +1,8 @@
 .DS_Store
 .vscodeignore
 other
+.vscode
 
 *.log
 *.vsix
+*.old

@@ -151,6 +151,9 @@ def generate_snippets():
     """Create json snippets file."""
     snippets_filepath = 'snippets/snippets.json'
 
+    if os.path.exists(snippets_filepath):
+        os.rename(snippets_filepath, snippets_filepath + '.old')
+
     with open(snippets_filepath, 'w') as snippets_file:
         snippets_file.write("{}")
         snippets_file.seek(0)

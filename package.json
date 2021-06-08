@@ -3,7 +3,7 @@
     "displayName": "Hammerspoon Snippets",
     "description": "Snippets for Hammerspoon framework",
     "homepage": "",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "icon": "images/hammerspoon.png",
     "publisher": "virgilsisoe",
     "license": "MIT",

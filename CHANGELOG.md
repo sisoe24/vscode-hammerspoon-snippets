@@ -2,6 +2,10 @@
 
 All notable changes to the "hammerspoon-snippets" extension will be documented in this file.
 
+## 0.0.5
+
+- Update snippets from Hammerspoon source.
+
 ## 0.0.4
 
 - New snippets from Hammerspoon source.

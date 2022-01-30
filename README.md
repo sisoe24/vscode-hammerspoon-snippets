@@ -1,5 +1,22 @@
 # README
 
+---
+
+## IMPORTANT MESSAGE
+
+A new extension for Hammerspoon is available. The extension will provide the following:
+
+* Autocomplete support
+* Hover information
+* Function signature helper
+* Reload Hammerspoon configuration command
+
+So there are very few reasons to use the snippets instead.
+
+Download from Marketplace: [Hammerspoon](https://marketplace.visualstudio.com/items?itemName=virgilsisoe.hammerspoon)
+
+---
+
 Visual Studio Code snippets for the Hammerspoon framework.
 
 ![example](images/example.jpg)
